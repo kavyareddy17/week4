@@ -1,0 +1,22 @@
+
+div{
+    font-size: "50px";
+    color: "green";
+    padding:"20px";
+}
+.content-container {
+    width: 800px;
+    margin: auto;
+    
+}
+h1,h2 {
+    font-family: 'fantasy';
+   font-size:50px;
+      color: #0D0D08;
+
+  text-align: center;  
+}
+h4{
+    font-size:20px;
+    color: #12120B;
+}
