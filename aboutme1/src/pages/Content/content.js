@@ -15,4 +15,4 @@ class Content extends Component {
         )
     }
 }
-export default Content
+export default Content;
